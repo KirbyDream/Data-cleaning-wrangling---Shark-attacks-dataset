@@ -131,4 +131,6 @@ data/shark_attacks.csv
 attacks_new.csv
 pd_error_import_csv.png
 testPandasProject_NoteBook.ipynb
+data/
+project codes.ipynb
 
