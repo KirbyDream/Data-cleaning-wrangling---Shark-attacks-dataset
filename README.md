@@ -73,5 +73,10 @@ we can see that USA has the most number of attacks followed by Australia and Sou
 but Australia has the  deadliest sharks
 ![perCountry](images/perCountry.png)
 
+## 5. So what are our main finding from this analysis?
 
-
+- Sharks do not descriminate by gender, they eat all people equally.
+- Even if 80% of the attacks were not provoked, sharks get deadlier when provoked.
+- Sharks are really attracted to surfers, however it's the swimmers who have less chances of surviving an attack.
+- Plan your holidays carrefully, sharks' favorite month to attack is july, but they get deadlier in december (Christmas holidays in the mountains!) 
+- The deadliest shark are from Australia, but American sharks are at the top of the attacking billboard.
