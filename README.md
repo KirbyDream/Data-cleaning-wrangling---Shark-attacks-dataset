@@ -29,7 +29,7 @@ Let's dive in!
 After looking at the distribution of fatality by gender within our Dataframe, it looks like males get attacked more than females however, Females have 16% fatality rate Vs 13% for men (Shark attacks are deadlier for females)
 ![genderVsFatality](images/genderVsFatality.png)
 
-*if you're a woman and reading this, if you see a fin swim back to the shore..*
+* if you're a woman and reading this, if you see a fin swim back to the shore..*
 
 
 ### - Do sharks get angry when provoked?
@@ -45,5 +45,33 @@ however, swimmers are easier prey to sharks with a fatality rate of 29,47% (as o
 * Surfboards save lives *
 
 ![Activity](images/Activity.png)
+
+### - Do shark perceive time? do they have a favorite month?
+let's look at when sharks have more appetite,
+we observed that sharks attack more in July with May being the slowest month for theme
+
+![month_most_attacks](/images/month_most_attacks.png)
+
+Now let's look at the deadliset month:
+after we select only the attacks that resulted in a fatality, we observe that even if July has the most attacks, December is the most fatal month
+(Plan your holidays carefully!)
+
+![deadliest_month](images/deadliest_month.png)
+
+After limiting the years starting from 1930,we observe that 2015 is the year with the most number of attacks,
+also we notice that the number of attacks is increasing over time,
+however this could be due to the increase number of attacks that get reported,(or maybe surfing got popular with the years)
+
+![attacks_perYear](images/attacks_perYear.png)
+
+Now let's look at the deadliset year: 2000 was the deadliest year
+(what makes that year so special for sharks? a google search suggest that Australia held Summer Olympics!)
+![deadliestYear](images/deadliestYear.png)
+
+### Where is the deadliest shark?
+we can see that USA has the most number of attacks followed by Australia and South Africa
+but Australia has the  deadliest sharks
+![perCountry](images/perCountry.png)
+
 
 
