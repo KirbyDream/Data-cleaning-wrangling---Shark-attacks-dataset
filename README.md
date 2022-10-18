@@ -1,7 +1,7 @@
 # Cleaning and analysing Shark attacks dataset
 ## Selma Laarabi
 ## 1.Introduction
-- This readMe describes the process of cleaning datasetfor shark attacks, as well as analysing the data and proposing hypothese
+- This readMe describes the process of cleaning dataset for shark attacks, as well as analysing the data and proposing hypothesis
 - In this analysis we are using 2 Jupyter NoteBooks, one for performing the cleaning and another one for visualization and analysis
 ## 2.Describing the Data set
 The data set used in this exercise, contains a list of incidents reported as shark attacks, accross the globe, this data set also provides information about the  location of the incident, information about the victims, as well as various other data,
@@ -25,14 +25,14 @@ Now that we have our dat set clean and ready for analysis, it's time to start fo
 - Are there certain activities that attrack sharks?
 - Do shark perceive time? do they have a favorite month?
 - Which location to avoid if I don't want to be attacked by a shark?
-Let's dive in!
+- 
+  Let's dive in!
 ### - Do shark descriminate by gender?
 After looking at the distribution of fatality by gender within our Dataframe, it looks like males get attacked more than females however, Females have 16% fatality rate Vs 13% for men (Shark attacks are deadlier for females)
 ![genderVsFatality](images/genderVsFatality.png)
 
 * if you're a woman and reading this, if you see a fin swim back to the shore..*
 
-![sharkgender.gif](images/sharkgender.gif)
 
 ### - Do sharks get angry when provoked?
 it looks like 80% of the attacks were not provoked, but when provoked it can be quiet deadly.  
@@ -45,11 +45,6 @@ There are so many activities we can do at sea, we can be surfing, swimming, snor
 to no one's surprise surfers get attacked the most but the good news is that they have 94,6% chance of making it back home alive,
 however, swimmers are easier prey to sharks with a fatality rate of 29,47% (as opposed to surfing Only 5.42%)
 * Surfboards save lives *
-
-
-![shark-swimmers](images/shark-swimmers.jpg)
-
-![Activity](images/Activity.png)
 
 ![n_avtivity](images/n_avtivity.png)
 
@@ -84,8 +79,10 @@ but Australia has the  deadliest sharks
 
 ## 5. So what are our main finding from this analysis?
 
-- Sharks do not descriminate by gender, they eat all people equally.
+- Sharks do not descriminate by gender, they attack all people equally.
 - Even if 80% of the attacks were not provoked, sharks get deadlier when provoked.
 - Sharks are really attracted to surfers, however it's the swimmers who have less chances of surviving an attack.
 - Plan your holidays carrefully, sharks' favorite month to attack is july, but they get deadlier in december (Christmas holidays in the mountains!) 
 - The deadliest shark are from Australia, but American sharks are at the top of the attacking billboard.
+![shark](images/shark.gif)
+
