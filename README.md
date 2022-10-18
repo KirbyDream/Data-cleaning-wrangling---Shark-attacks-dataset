@@ -12,6 +12,7 @@ Looking at the columns, we started by removing empty and duplicated ones (ie unn
 Also as part of the cleaning, just by running a duplication check we removed 19K lines of duplicated and null data.
 we also made sure to correct some columns name like "sex" and "species"
 now our columns are reduced enough to proceed with the data cleaning.
+
 ### Data Cleaning
 The data cleaning involved:
 - adding specific fields for months to cover months and years,
@@ -31,9 +32,10 @@ After looking at the distribution of fatality by gender within our Dataframe, it
 
 * if you're a woman and reading this, if you see a fin swim back to the shore..*
 
+![sharkgender.gif](images/sharkgender.gif)
 
 ### - Do sharks get angry when provoked?
-it looks like 80% of the attacks were not provoked, but when provoked it can be quiet deadly
+it looks like 80% of the attacks were not provoked, but when provoked it can be quiet deadly.  
 In provoked accidents 14% are fatal vs 2% not fatal.
 
 ![provocation_kills](images/provocation_kills.png)
@@ -44,7 +46,14 @@ to no one's surprise surfers get attacked the most but the good news is that the
 however, swimmers are easier prey to sharks with a fatality rate of 29,47% (as opposed to surfing Only 5.42%)
 * Surfboards save lives *
 
+
+![shark-swimmers](images/shark-swimmers.jpg)
+
 ![Activity](images/Activity.png)
+
+![n_avtivity](images/n_avtivity.png)
+
+
 
 ### - Do shark perceive time? do they have a favorite month?
 let's look at when sharks have more appetite,
